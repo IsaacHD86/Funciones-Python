@@ -65,3 +65,7 @@ El numero 7 es: True
 El numero 8 es: False                                                                                                            
 El numero 9 es: True                                                                                                                  
 El numero 10 es: False                                                                                                           
+
+## Autor
+Isaac Heredia Diaz
+[GitHub](https://github.com/IsaacHD86)
